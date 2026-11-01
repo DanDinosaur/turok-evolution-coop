@@ -95,7 +95,6 @@ Just play your original, unpatched ISO or GOD folder again. The patcher never ch
 - Minor visual issues:
   - Tal'Set's feet sit slightly below the floor.
   - There's no crouch animation.
-  - The HUD is stretched in widescreen.
 - When one player is swimming, the water effect can also show on the other player's screen. There's very little swimming in the campaign, so you'll rarely see it.
 - Very rarely, a quick-fire shot from the primitive bow can nick Player 2. You'll hardly ever use that bow after the first level.
 - Flight levels aren't set up for co-op yet.
