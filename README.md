@@ -38,7 +38,7 @@ Made by **DanDinosaur**.
 
 ### Step 1: Download
 
-1. Download `turok-evolution-coop-v1.0.zip` from the **[Releases](../../releases)** page.
+1. Download **[turok-evolution-coop-v1.0.zip](turok-evolution-coop-v1.0.zip)** from this page: click it, then click the **Download raw file** button (the download icon on the right).
 2. **Windows only:** before unzipping, right-click the zip, choose **Properties**, tick **Unblock** if you see it, then click **OK**. This stops Windows blocking the patcher.
 3. Unzip it anywhere, for example to your Desktop.
 
